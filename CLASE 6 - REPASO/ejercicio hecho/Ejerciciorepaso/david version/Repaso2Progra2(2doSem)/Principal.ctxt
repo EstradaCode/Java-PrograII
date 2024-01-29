@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=in
+comment2.target=Automotor\ leerAutomotor(java.util.Scanner)
+comment3.params=in
+comment3.target=Embarcacion\ leerEmbarcacion(java.util.Scanner)
+comment4.params=in
+comment4.target=Propietario\ leerPropietario(java.util.Scanner)
+comment5.params=v
+comment5.target=void\ InformarMontoAPagar(Vehiculo[])
+numComments=6

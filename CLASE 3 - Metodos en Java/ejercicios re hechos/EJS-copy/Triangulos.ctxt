@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Triangulos
+comment1.params=
+comment1.target=double\ getLado1()
+comment10.params=uncolorLinea
+comment10.target=void\ setColorLinea(java.lang.String)
+comment11.params=
+comment11.target=double\ CalcularArea()
+comment12.params=
+comment12.target=double\ CalcularPerimetro()
+comment2.params=
+comment2.target=double\ getLado2()
+comment3.params=
+comment3.target=double\ getLado3()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=java.lang.String\ getColorLinea()
+comment6.params=unlado
+comment6.target=void\ setLado1(double)
+comment7.params=unlado
+comment7.target=void\ setLado2(double)
+comment8.params=unlado
+comment8.target=void\ setLado3(double)
+comment9.params=uncolor
+comment9.target=void\ setColor(java.lang.String)
+numComments=13

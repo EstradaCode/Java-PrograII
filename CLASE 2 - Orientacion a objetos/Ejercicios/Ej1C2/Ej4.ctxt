@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ej4
+comment1.params=vecPartidos
+comment1.target=void\ CargaVector(Partido[])
+comment2.params=vecPartidos
+comment2.target=int\ GanadorRiver(Partido[])
+comment3.params=vecPartidos
+comment3.target=int\ golesBoca(Partido[])
+comment4.params=vecPartidos
+comment4.target=double\ porcentajeEmpate(Partido[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

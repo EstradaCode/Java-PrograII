@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=programaQatar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=in\ cant\ opcion
+comment2.target=Compra\ leerCompra(java.util.Scanner,\ int,\ java.lang.String)
+numComments=3

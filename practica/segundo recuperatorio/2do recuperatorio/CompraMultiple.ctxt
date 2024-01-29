@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CompraMultiple
+comment1.params=numCompra\ categoria\ estadio\ fecha\ importe\ cantEntradas
+comment1.target=CompraMultiple(int,\ int,\ java.lang.String,\ int,\ double,\ int)
+comment2.params=cantEntradas
+comment2.target=void\ setCantEntradas(int)
+comment3.params=
+comment3.target=int\ getcantEntradas()
+comment4.params=
+comment4.target=double\ promocion()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,3 @@
+2- 
+A) La Herencia le permite a una clase HEREDAR atributos o comportamientos de una (SuperClase o Clase Padre)
+B)

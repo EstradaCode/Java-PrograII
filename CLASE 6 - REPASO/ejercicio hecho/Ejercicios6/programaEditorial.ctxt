@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=programaEditorial
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=Ejemplares
+comment2.target=void\ Imprimir(Ejemplar[])
+comment3.params=Ejemplares\ a\u00F1o
+comment3.target=void\ Publicacion(Ejemplar[],\ int)
+numComments=4
